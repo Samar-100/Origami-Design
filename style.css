@@ -55,3 +55,15 @@ h1 {
   width: 310px;
   font-family: fantasy;
 }
+
+a:link {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
+
+.animals:hover {
+  transform: scale(1.2);
+}
